@@ -1,0 +1,12 @@
+D:\Training\StringOperationApplication\StringOperationApplication\bin\Debug\StringOperationApplication.exe.config
+D:\Training\StringOperationApplication\StringOperationApplication\bin\Debug\StringOperationApplication.exe
+D:\Training\StringOperationApplication\StringOperationApplication\bin\Debug\StringOperationApplication.pdb
+D:\Training\StringOperationApplication\StringOperationApplication\obj\Debug\StringOperationApplication.csprojResolveAssemblyReference.cache
+D:\Training\StringOperationApplication\StringOperationApplication\obj\Debug\StringOperationApplication.exe
+D:\Training\StringOperationApplication\StringOperationApplication\obj\Debug\StringOperationApplication.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\StringOperationApplication\StringOperationApplication\bin\Debug\StringOperationApplication.exe.config
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\StringOperationApplication\StringOperationApplication\obj\Debug\StringOperationApplication.exe
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\StringOperationApplication\StringOperationApplication\obj\Debug\StringOperationApplication.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\StringOperationApplication\StringOperationApplication\bin\Debug\StringOperationApplication.exe
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\StringOperationApplication\StringOperationApplication\bin\Debug\StringOperationApplication.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\StringOperationApplication\StringOperationApplication\obj\Debug\StringOperationApplication.csprojResolveAssemblyReference.cache
